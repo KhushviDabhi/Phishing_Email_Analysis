@@ -13,7 +13,7 @@ The sample was taken from the NCERT **Spot the Scam** educational activity shown
 - `sample_email.txt` — visible sample details transcribed from the NCERT example
 - `header_analysis.md` — separate notes about the supplementary header example
 - `findings_checklist.md` — summary of indicators
-- `evidence/` — place to add screenshots before submission
+- `png` — added screenshots
 
 ## Important evidence note
 The NCERT screenshot did not provide the original raw email or its full headers. Therefore, SPF/DKIM/DMARC results below came from a **separate supplementary educational header example** and must not be treated as authentication results for the NCERT email.
