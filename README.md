@@ -19,8 +19,3 @@ The sample was taken from the NCERT **Spot the Scam** educational activity shown
 The NCERT screenshot did not provide the original raw email or its full headers. Therefore, SPF/DKIM/DMARC results below came from a **separate supplementary educational header example** and must not be treated as authentication results for the NCERT email.
 
 No suspicious URL was opened, and no attachment was present in the provided NCERT sample.
-
-## How to use
-1. Review `report.md`.
-2. Add your own screenshots to the `evidence/` folder if your mentor requires them.
-3. Upload this folder/repository to GitHub.
