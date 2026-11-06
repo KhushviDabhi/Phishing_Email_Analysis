@@ -1,0 +1,12 @@
+NCERT – Spot the Scam educational sample
+(Details transcribed from the presentation screenshot)
+
+Sender name: BankName
+Sender email: bank-support@mailverify.com
+Subject: URGENT ACCOUNT ALERT!!!
+Visible message: Your account is locked.
+Displayed URL: http://verify-info-update-secure.com
+Attachment: None visible / none provided
+
+Safety note:
+The displayed URL was not opened. The screenshot is an educational sample, not a raw email file.
